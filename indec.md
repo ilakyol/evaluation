@@ -7,3 +7,9 @@
 | Medium        | 0,277777778          | 0,87962963               | 1,157407407             | 0,527777778   | 14,14814815    |
 | Complex       | 1,551724138          | 2,482758621              | 4,655172414             | 2,390804598   | 37,8045977     |
 | Total         | 0,643678161          | 1,199233716              | 2,049808429             | 1,01532567    | 19,74712644    |
+
+# Per Degree Evaluation Table
+
+|  Average Edge-Edge Intersections per Degree  | Average Edge-Node Intersections per Degree      | Average Label Intersections per Degree      | Average Imprecisions per Degree   | 
+|---------------------|--------------------------|-------------------------|--------------------|
+| 0,032596042  | 0,06072953            |     0,103802872        |       0,051416376       | 
