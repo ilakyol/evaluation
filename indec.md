@@ -5,6 +5,22 @@ layout: default
 
 # Math Table Example
 
+Below is a 4x6 table with mathematical symbols and expressions.
+
+| Symbol         | Description         | Expression Example       | Additional Example      | Alternate Symbol   | Notes                |
+|----------------|---------------------|--------------------------|-------------------------|--------------------|----------------------|
+| Simple        | Addition            | $a + b = c$             | $c = a + b$            | None               | Basic operation      |
+| Medium        | Subtraction         | $a - b = c$             | $c = b - a$            | None               | Basic operation      |
+| Complex   | Multiplication      | $a \times b = c$        | $ab = c$               | $\cdot$            | Can also use dot     |
+
+> This table uses LaTeX syntax for math rendering.
+---
+title: Math Table
+layout: default
+---
+
+# Math Table Example
+
 Below is a table with mathematical symbols and expressions.
 
 | Symbol         | Description         | Expression Example       |
