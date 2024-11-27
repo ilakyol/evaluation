@@ -9,7 +9,7 @@ Below is a 4x6 table with mathematical symbols and expressions.
 
 | Complexity Class         | Average Edge-Edge Intersections per Model  | Average Edge-Node Intersections per Model      | Average Label Intersections per Model      | Average Imprecisions per Model   | Average Complexity Degree     |
 |----------------|---------------------|--------------------------|-------------------------|--------------------|----------------------|
-| Simple        | 0,045454545          | 0,03030303               | $c = a + b$            | None               | Basic operation      |
+| Simple        | 0,045454545          | 0,03030303               | 0,075757576             |0              | 5,106060606    |
 | Medium        | Subtraction         | $a - b = c$             | $c = b - a$            | None               | Basic operation      |
 | Complex   | Multiplication      | $a \times b = c$        | $ab = c$               | $\cdot$            | Can also use dot     |
 
