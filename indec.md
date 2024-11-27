@@ -7,7 +7,7 @@ layout: default
 
 Below is a 4x6 table with mathematical symbols and expressions.
 
-| Symbol         | Average Edge-Edge Intersections per Model  | Average Edge-Node Intersections per Model      | Average Label Intersections per Model      | Alternate Symbol   | Notes                |
+| Symbol         | Average Edge-Edge Intersections per Model  | Average Edge-Node Intersections per Model      | Average Label Intersections per Model      | Average Imprecisions per Model   | Average Complexity Degree     |
 |----------------|---------------------|--------------------------|-------------------------|--------------------|----------------------|
 | Simple        | Addition            | $a + b = c$             | $c = a + b$            | None               | Basic operation      |
 | Medium        | Subtraction         | $a - b = c$             | $c = b - a$            | None               | Basic operation      |
