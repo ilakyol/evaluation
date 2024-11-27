@@ -7,7 +7,7 @@ layout: default
 
 Below is a table with mathematical symbols and expressions.
 
-| Symbol         | Description         | Expression Example       |
+| Symbol         | $\overline{|C_{e,e}(G)|}$         | Expression Example       |
 |----------------|---------------------|--------------------------|
 | $a + b$        | Addition            | $a + b = c$             |
 | $a - b$        | Subtraction         | $a - b = c$             |
