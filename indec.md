@@ -1,11 +1,5 @@
----
-title: Math Table
-layout: default
----
+# Average Evaluation Table
 
-# Math Table Example
-
-Below is a 4x6 table with mathematical symbols and expressions.
 
 | Complexity Class         | Average Edge-Edge Intersections per Model  | Average Edge-Node Intersections per Model      | Average Label Intersections per Model      | Average Imprecisions per Model   | Average Complexity Degree per Model    |
 |----------------|---------------------|--------------------------|-------------------------|--------------------|----------------------|
