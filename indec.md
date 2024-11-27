@@ -1,4 +1,4 @@
-| Complexity Class | Number of Models | Average of $\overline{|C_{e,e}(G)|}$ | Average of $\overline{|I_{v,e}(G)|}$ | Average of $\overline{|I_{l,v}(G)|}$ | Average of $\overline{|I_{v,e}(G)||I(G)|}$ | Average of $D(G)$ |
+| Complexity Class | Number of Models | Average of $\overline{|C_{e,e}(G)|}$ | Average of $\overline{|I_{v,e}(G)|}$ | Average of $\overline{I_{l,v}(G)|}$ | Average of $\overline{|I_{v,e}(G)||I(G)|}$ | Average of $D(G)$ |
 |------------------|------------------|---------------------------------------|---------------------------------------|---------------------------------------|--------------------------------------------|-------------------|
 | Example 1        | 10               | Value                                | Value                                | Value                                | Value                                      | Value             |
 | Example 2        | 15               | Value                                | Value                                | Value                                | Value                                      | Value             |
