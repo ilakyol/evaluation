@@ -16,8 +16,8 @@
 
 # Change of respected Intersections/Errors with complexity increase
 
-| Complexity Class         | Average Edge-Edge Crossings per Model  | Average Edge-Node Intersections per Model      | Average Label Intersections per Model      | Average Imprecisions per Model   | Average Complexity Degree per Model    |Errors* per Model|
+| Complexity Class         |Errors* per Model| Average Edge-Edge Crossings per Model  | Average Edge-Node Intersections per Model      | Average Label Intersections per Model      | Average Imprecisions per Model   | Average Complexity Degree per Model    |
 |----------------|---------------------|--------------------------|-------------------------|--------------------|----------------------|----------------------|
-| Simple-Medium   | 0,045454545          | 0,03030303               | 0,075757576             |0              | 5,106060606    |0,363636363|
-| Medium-Complex  | 0,277777778          | 0,87962963               | 1,157407407             | 0,527777778   | 14,14814815    |0,898148148|
-| Simple-Complex  | 0,277777778          | 0,87962963               | 1,157407407             | 0,527777778   | 14,14814815    |0,898148148|
+| Simple-Medium   | 1.469907407          | 5.111111111             | 14.27777778  |28.02777778             |/inf           | 1.77085394    |
+| Medium-Complex  | 0.177390686          | 4.586206897             | 3.022068966  |1.822504537             |3.529945554    | 1.672052717   |
+| Simple-Complex  | 1.908045977          | 33.13793103             | 60.44827586  |80.93103448             |/inf           | 6.403867799   |
